@@ -1,6 +1,4 @@
-# Github Primeiro projeto usando versão de controle
-## Lista dos relacionados no jogo !
-- Carlin
-- Ronin
-- Junia
-- Celin
+# Github 
+Primeiro projeto usando controle de versão
+
+Ajuda: [Git] (https://git-scm.com/doc)
